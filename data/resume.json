@@ -12,18 +12,7 @@
         "phone": "18595889320",
         "email": "3130415284@qq.com"
     },
-    "social": [
-        {
-            "type": "github",
-            "link": "",
-            "icon": ""
-        },
-        {
-            "type": "home",
-            "link": "",
-            "icon": ""
-        }
-    ],
+    "social": [],
     "Awards": [
         {
             "name": "机动车驾驶证（C1）"
@@ -33,21 +22,21 @@
     "InternExperiences": [],
     "ProjectExperience": [
         {
-            "name": "酒店管理系统",
+            "name": "二手物品交易平台",
             "name_link": "",
-            "title": "面向对象课程设计 · Java + MySQL",
+            "title": "本科毕业设计 · Spring Boot + Vue + MySQL",
             "icon": "",
-            "description": "基于 MySQL 设计 10 张业务表，使用 Java 实现全套增删改查接口；开发预订管理、支付结算等核心模块，保证数据一致性和接口可靠性；采用 JDBC 连接池和预编译语句提升数据库操作安全性与性能。",
-            "time": "2023.09 - 2024.06",
+            "description": "基于 B/S 架构的二手交易平台，支持管理员、商家、用户三种角色。后端 Spring Boot + MyBatis-Plus，数据库 MySQL 共 14 张表；管理端 Vue2 + Element UI，用户端原生 HTML + Layui。实现商品发布与浏览、购物车、订单（支付/退款/发货/评价）、在线咨询、收藏、公告等完整交易流程；含 Token 认证、字典驱动枚举、逻辑删除与个性化推荐。",
+            "time": "2025.09 - 2026.06",
             "location": ""
         },
         {
-            "name": "学生成绩管理系统",
+            "name": "Shop-Test 电商平台",
             "name_link": "",
-            "title": "数据库课程设计 · Java + MySQL",
+            "title": "全栈电商项目 · Spring Boot 3 + Vue 3",
             "icon": "",
-            "description": "使用 MySQL + Java 实现增删改查功能；负责数据库表结构设计和后端接口开发。",
-            "time": "2023.09 - 2024.06",
+            "description": "基于 Spring Boot 3.5 + Vue 3 的前后端分离电商平台，覆盖用户认证、商品、购物车、订单、支付、评价、客服、管理后台等完整链路。Spring Security + JWT + Redis 黑名单登出，Spring Cache/Redis 商品缓存与接口限流（AOP），WebSocket 实时客服（一次性 ticket 防泄露），模拟支付（MD5 验签 + 幂等回调 + 15 分钟超时）；含 118 个单元测试、Docker Compose 一键部署、dev/test/prod 多环境配置。",
+            "time": "2026",
             "location": ""
         }
     ]
