@@ -3,126 +3,105 @@
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "韦源升",
-        "description": "666",
+        "description": "计算机科学与技术 · 2026届本科 · 主修：数据结构与算法、C语言、数据库、面向对象编程、软件工程、Web前端开发",
         "school": "沈阳科技学院",
         "profession": "计算机科学与技术",
         "sex": "男",
-        "education" : "本科",
+        "education": "本科",
         "workage": "2026届毕业",
         "phone": "18595889320",
         "email": "3130415284@qq.com"
     },
-    "social":[
+    "social": [
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
-            "icon": ""
-        },
-        {
-            "type": "weibo",
-            "link": "http://weibo.com",
-            "icon": ""
-        },
-        {
-            "type": "linkedin",
-            "link": "https://www.linkedin.com",
-            "icon": ""
-        },
-        {
-            "type": "twitter",
-            "link": "https://twitter.com",
+            "link": "",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "https://github.com/Jayin",
+            "link": "",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
-        },
-        {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
+            "name": "机动车驾驶证（C1）"
         }
     ],
-    "socialExperiences": [
-        {
-            "name": "加入XX移动开发工作室",
-            "name_link": "https://github.com/Jayin",
-            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
-        },
-        {
-            "name": "组织X次校内开发者交流会",
-            "name_link": "https://github.com/Jayin",
-            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
-        }
-    ],
-    "InternExperiences": [
-        {
-            "name": "深圳XX网络科技有限公司",
-            "name_link": "",
-            "title": "前端开发工程师",
-            "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
-            "time": "2015.04 - 2015.09",
-            "location": "广东 深圳"
-        },
-        {
-            "name": "深圳XXX网络科技有限公司",
-            "name_link": "",
-            "title": "PHP开发工程师",
-            "icon": "",
-            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
-            "time": "2014.07 - 2014.08",
-            "location": "广东 江门"
-        }
-    ],
+    "socialExperiences": [],
+    "InternExperiences": [],
     "ProjectExperience": [
         {
-            "name": "XTips",
-            "name_link": "https://github.com/Jayin",
-            "title": "Android App, 作者",
-            "icon": "",
-            "description": "中山大学校园助手，2一键导入课程表/图书检索、收藏/及时获取校园资讯/查空课室/电费, 已为7+K同学服务",
-            "time": "2013.07 - 至今",
-            "location": ""
-        },
-        {
-            "name": "XX技能培训中心",
+            "name": "酒店管理系统",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "面向对象课程设计 · Java + MySQL",
             "icon": "",
-            "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
-            "time": "2014.08 - 2014.12",
+            "description": "基于 MySQL 设计 10 张业务表，使用 Java 实现全套增删改查接口；开发预订管理、支付结算等核心模块，保证数据一致性和接口可靠性；采用 JDBC 连接池和预编译语句提升数据库操作安全性与性能。",
+            "time": "2023.09 - 2024.06",
             "location": ""
         },
         {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
+            "name": "学生成绩管理系统",
+            "name_link": "",
+            "title": "数据库课程设计 · Java + MySQL",
             "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
+            "description": "使用 MySQL + Java 实现增删改查功能；负责数据库表结构设计和后端接口开发。",
+            "time": "2023.09 - 2024.06",
+            "location": ""
+        }
+    ]
+}
+{
+    "avatar": "/resume/data/1.jpg",
+    "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
+    "basicinfo": {
+        "name": "韦源升",
+        "description": "计算机科学与技术 · 2026届本科 · 主修：数据结构与算法、C语言、数据库、面向对象编程、软件工程、Web前端开发",
+        "school": "沈阳科技学院",
+        "profession": "计算机科学与技术",
+        "sex": "男",
+        "education": "本科",
+        "workage": "2026届毕业",
+        "phone": "18595889320",
+        "email": "3130415284@qq.com"
+    },
+    "social": [
+        {
+            "type": "github",
+            "link": "",
+            "icon": ""
+        },
+        {
+            "type": "home",
+            "link": "",
+            "icon": ""
+        }
+    ],
+    "Awards": [
+        {
+            "name": "机动车驾驶证（C1）"
+        }
+    ],
+    "socialExperiences": [],
+    "InternExperiences": [],
+    "ProjectExperience": [
+        {
+            "name": "酒店管理系统",
+            "name_link": "",
+            "title": "面向对象课程设计 · Java + MySQL",
+            "icon": "",
+            "description": "基于 MySQL 设计 10 张业务表，使用 Java 实现全套增删改查接口；开发预订管理、支付结算等核心模块，保证数据一致性和接口可靠性；采用 JDBC 连接池和预编译语句提升数据库操作安全性与性能。",
+            "time": "2023.09 - 2024.06",
             "location": ""
         },
         {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin",
-            "title": "",
+            "name": "学生成绩管理系统",
+            "name_link": "",
+            "title": "数据库课程设计 · Java + MySQL",
             "icon": "",
-            "description": "",
-            "time": "",
+            "description": "使用 MySQL + Java 实现增删改查功能；负责数据库表结构设计和后端接口开发。",
+            "time": "2023.09 - 2024.06",
             "location": ""
         }
     ]
